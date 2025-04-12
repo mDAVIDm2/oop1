@@ -15,8 +15,10 @@ namespace ConsoleApp3
             int c = a+b;
 
             int d = b-a;
-            Console.WriteLine("Add..");
-             Console.WriteLine("Add..2");
+
+            Console.WriteLine(d);//новшество
+           
+
         }
     }
 }
