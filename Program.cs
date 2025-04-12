@@ -17,6 +17,7 @@ namespace ConsoleApp3
             int d = b-a;
             Console.WriteLine("Add..");
             Console.WriteLine(d);//новшество
+
         }
     }
 }
